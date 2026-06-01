@@ -1,4 +1,4 @@
-# 60 Days of AI 
+<img width="1420" height="792" alt="image" src="https://github.com/user-attachments/assets/293b90f5-cab3-4ba8-8b4a-0e944ea3d5e1" /># 60 Days of AI 
 
 Hi, I'm Rachi Jain.
 
@@ -35,3 +35,4 @@ This repository documents my 60-day AI journey where I will explore modern AI to
 Started my 60 Days of AI challenge by setting up my AI workspace, creating my project repository, exploring AI personality profiling, and documenting my goals for the journey ahead.
 
 Let's build, learn, and grow with AI. 
+
